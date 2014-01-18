@@ -9,7 +9,7 @@ Push this repo to your octohost:
 
 ```
 git clone https://github.com/octohost/perldancer-app.git
-cd harp
+cd perldancer-app
 git remote add octohost git@ip.address.here:perldancer-app.git
 git push octohost master
 ```
